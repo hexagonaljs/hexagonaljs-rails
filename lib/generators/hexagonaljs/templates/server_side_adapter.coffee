@@ -1,0 +1,2 @@
+class ServerSideAdapter
+  constructor: ->
